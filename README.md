@@ -1,4 +1,4 @@
-# 🧩 JS Source Map Extractor
+<h1 align="center">JS Source Map Extractor</h1>
 
 This tool downloads `.js.map` files from a list of JavaScript URLs, then extracts the original source files from each sourcemap.
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/logo.png" width="120" alt="Next.js logo" />
+  <img src="image/logo.png" width="170" alt="Next.js logo" />
 </p>
 
 <h1 align="center">Next.js Source Map Dumper</h1>
